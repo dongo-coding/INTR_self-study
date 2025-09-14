@@ -1,0 +1,30 @@
+#include <bits/stdc++.h>
+using namespace std;
+float a,b,c,Delta,x1,x2;
+int main(){
+    cin>>a>>b>>c;
+    if(a==0){
+        if(b==0){
+            if (c==0)
+                cout<<"WOW";
+            else
+                cout<<"NO";
+        }
+        else
+            cout<<-c/b<<endl;
+    }
+    else{
+        Delta=b*b-4*a*c;
+        if(Delta > 0){
+            x1=(-b+sqrt(Delta))/(2*a);
+            x2=(-b-sqrt(Delta))/(2*a);
+            cout.precision(2);
+            cout<<fixed<<x2<<' ';
+            cout<<fixed<<x1;
+        }
+        else if (Delta==0)
+            cout <<-b/2*a <<' ';
+        else
+            cout << "NO";
+    }
+}
