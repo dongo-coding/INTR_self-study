@@ -1,17 +1,21 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <climits>
 using namespace std;
 
 vector<int> a;
 
 int timMax() {
     int max_val = INT_MIN;
-    for (int x : a) if (x > max_val) max_val = x;
+    for (int i = 0; i < a.size(); i++)
+        if (a[i] > max_val) max_val = a[i]; 
     return max_val;
 }
 
 int timMin() {
     int min_val = a[0];
-    for (int x : a) if (x < min_val) min_val = x;
+    for (int i = 0; i < a.size(); i++)
+        if (a[i] < min_val) min_val = a[i];
     return min_val;
 }
 
@@ -33,7 +37,7 @@ void xoaTaiViTri(int pos) {
 
 void xuatMang() {
     cout << "Mang: ";
-    for (int x : a) cout << x << " ";
+    for (int i = 0; i < a.size(); i++) cout << a[i] << " ";
     cout << endl;
 }
 
@@ -81,9 +85,12 @@ int main() {
             int pos;
             cout << "Nhap vi tri: "; cin >> pos;
             xoaTaiViTri(pos);
-        }
+        } 
+        else if (choice == 6) {
+            cout << "\nBan da thoat chuong trinh quan li mang 1 chieu" << endl;
+        } 
 
-    } while (choice != 0);
+    } while (choice != 6);
 
     return 0;
 }
