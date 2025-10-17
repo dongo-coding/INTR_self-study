@@ -16,3 +16,4 @@ int main ()
     }
     if (!found) cout<<"-1";
 }
+//Kiểm tra phần tử thứ 11 có giá trị bằng với một trong những phần tử trong mảng
