@@ -15,3 +15,4 @@ int main() {
 
     cout << max_val - min_val;
 }
+//Tìm chênh lệch lớn nhất giữa phần tử nhỏ nhất và lớn nhất
