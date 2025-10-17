@@ -16,3 +16,4 @@ int main ()
     cin>>a>>b;
     cout<<gcd(a,b);
 }
+//In ra ước chung lớn nhất
