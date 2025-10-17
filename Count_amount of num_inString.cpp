@@ -10,4 +10,4 @@ int main ()
     else {
         cout<<n.size();
     }
-}
+} // Đếm số kí tự trong chuỗi
