@@ -34,3 +34,5 @@ int main ()
 
 } //Way 2
 
+
+//Sắp xếp mảng tăng dần, giữ lại thứ tự phần tử đầu và cuối
