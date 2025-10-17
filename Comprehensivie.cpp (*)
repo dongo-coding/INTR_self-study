@@ -93,4 +93,4 @@ int main() {
     } while (choice != 6);
 
     return 0;
-}
+}  //Bài tập cơ bản tổng hợp về function
