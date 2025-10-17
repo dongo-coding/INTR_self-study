@@ -9,3 +9,4 @@ int main ()
     else sln=c;
     cout<<sln;
 }
+//Tìm và in ra số lớn nhất trong 3 số
