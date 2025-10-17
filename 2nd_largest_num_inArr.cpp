@@ -22,4 +22,4 @@ int main ()
         cout<<"NOT FOUND";
     }
     else cout<<second_maxvalue;
-}
+} //Tìm số lớn thứ hai trong mảng một chiều
