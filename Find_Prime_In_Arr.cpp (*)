@@ -29,3 +29,4 @@ int main() {
     }
 
 }
+//Tìm và in ra số nguyên tố trong mảng một chiều
