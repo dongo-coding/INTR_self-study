@@ -18,3 +18,4 @@ int main () {
     cout<<bcnn;
     
 }
+//In ra bội chung nhỏ nhất
