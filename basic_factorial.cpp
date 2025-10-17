@@ -10,3 +10,4 @@ int main ()
     }
     cout<<gt;
 }
+//Giai thừa cơ bản
