@@ -12,3 +12,4 @@ int main ()
     }
     cout<<S;
 }
+//Tính tổng các số chẵn trong đoạn
