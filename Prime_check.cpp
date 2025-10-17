@@ -16,3 +16,4 @@ int main ()
     }
     else cout<<"NO";
 }
+//Kiểm tra số nguyên tố 
