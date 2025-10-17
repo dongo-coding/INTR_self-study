@@ -10,3 +10,4 @@ int main ()
     cin>>n>>k;
     cout<<comb(n,k);
 }
+//Đệ quy
