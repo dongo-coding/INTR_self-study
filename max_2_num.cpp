@@ -8,4 +8,4 @@ int main ()
     if (max_val<b) max_val=b;
     cout<<max_val;
 }
-//tìm ra in ra số lớn nhất
+//tìm ra in ra số lớn nhất trong 2 số
