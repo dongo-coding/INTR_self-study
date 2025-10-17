@@ -16,3 +16,4 @@ int main ()
     }
     cout<<max_value;
 }
+//Tìm phần tử có giá trị lớn nhất trong mảng một chiều
