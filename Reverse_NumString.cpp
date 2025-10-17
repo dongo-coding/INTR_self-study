@@ -15,3 +15,5 @@ reverse(s.begin(), s.end());
 
 cout << s;
 }
+
+//đảo ngược chuỗi
