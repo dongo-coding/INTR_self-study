@@ -28,3 +28,5 @@ int main ()
    }
    else cout<<ts<<" "<<ms;
 }
+
+//Đơn giản phân số
