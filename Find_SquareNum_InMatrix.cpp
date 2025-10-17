@@ -37,3 +37,4 @@ int main ()
     }
     
 }
+//Tìm và in ra số chính phương trong mảng 2 chiều (ma trận)
