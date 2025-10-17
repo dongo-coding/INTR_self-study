@@ -39,3 +39,4 @@ int main() {
         cout << bigDecimalToBinary(numbers[i]) << endl;
     }
 }
+//Chuyển đổi hệ thập phân sang nhị phân
