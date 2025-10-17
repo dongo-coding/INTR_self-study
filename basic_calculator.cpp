@@ -21,3 +21,4 @@ int main ()
         else cout<<"Math Error";
     }
 }
+// Máy tính cầm tay cơ bản
