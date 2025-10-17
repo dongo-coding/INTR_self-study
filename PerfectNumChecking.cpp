@@ -15,3 +15,4 @@ int  main()
 	}
 	else cout << "NO";
 }
+//Kiểm tra số hoàn hảo
