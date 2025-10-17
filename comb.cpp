@@ -10,4 +10,4 @@ int main ()
     cin>>n>>k;
     cout<<comb(n,k);
 }
-//Đệ quy
+//Dùng đệ quy tính tổ hợp chập k của n
