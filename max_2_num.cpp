@@ -4,7 +4,8 @@ int main ()
 {
     int a,b;
     cin>>a>>b;
-    int sln=a;
-    if (sln<b) sln=b;
-    cout<<sln;
+    int max_val=a;
+    if (max_val<b) max_val=b;
+    cout<<max_val;
 }
+//tìm ra in ra số lớn nhất
