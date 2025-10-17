@@ -11,3 +11,4 @@ int main ()
         }
     }
 }
+//Tìm tất cả các ước
