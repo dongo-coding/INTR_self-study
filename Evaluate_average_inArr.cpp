@@ -19,3 +19,4 @@ int main ()
     }
     cout<<fixed<<setprecision(4)<<avg;
 }
+//tính giá trị trung bình các phần tử trong mảng, làm tròn đến chữ số thập phân thứ 4
