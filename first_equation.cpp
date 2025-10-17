@@ -16,3 +16,4 @@ int main ()
         cout<<fixed<<setprecision(2)<<(double)-b/a;
     }
 }
+//In ra nghiệm của phương trình bậc nhất
