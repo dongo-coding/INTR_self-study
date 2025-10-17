@@ -19,3 +19,4 @@ int main ()
     cout<<max_index;
     
 }
+//In ra chỉ số của phần tử có giá trị lớn nhất trong mảng
