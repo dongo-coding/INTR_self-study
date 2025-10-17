@@ -19,3 +19,4 @@ else{
     } 
 }
 }
+//In ra các phần tử chia hết cho 3
