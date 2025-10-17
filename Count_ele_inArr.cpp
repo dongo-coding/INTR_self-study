@@ -16,4 +16,5 @@ int main ()
     }
     cout<<cnt;
     
-}
+} 
+//Đếm số phần tử trong mảng có giá trị bằng x
