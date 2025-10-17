@@ -13,3 +13,4 @@ int main ()
         cout<<a[i]<<" ";
     }
 }
+//Sắp xếp phần tử theo thứ tự giảm dần
