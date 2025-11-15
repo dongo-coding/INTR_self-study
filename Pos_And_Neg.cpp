@@ -15,4 +15,5 @@ int main()
     }
     for(int i=0;i<neg.size();i++) cout<<neg[i]<<" ";
     for(int i=0;i<pos.size();i++) cout<<pos[i]<<" ";
-}
+} 
+//In ra các phân tử trong mảng một chiều,sao cho thứ tự của các phần tửcùng âm hoặc cùng dương vẫn phải được giữ nguyên như ở mảng ban đầu
