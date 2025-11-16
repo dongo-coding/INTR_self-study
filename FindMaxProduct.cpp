@@ -24,4 +24,4 @@ int main()
     }
     cout<<findMaxProduct(a);
 
-}
+}  //Tìm tích lớn nhất giữa các phần tử trong mảng một chiều
